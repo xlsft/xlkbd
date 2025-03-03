@@ -1,148 +1,92 @@
 [
     {
-        "backcolor": "#ffffff",
-        "name": "xlkbd",
-        "author": "xlsft",
-        "background": {
-            "name": "Aluminium brushed black",
-            "style": "background-image: url('/bg/metal/aluminum_texture1644.jpg');"
-        },
-        "radii": "10",
-        "switchMount": "cherry",
-        "css": "",
-        "plate": false,
-        "pcb": false
+      "backcolor": "#0d0d0d",
+      "name": "␩␩ XLKBD",
+      "author": "XL Software",
+      "switchMount": "cherry",
+      "switchBrand": "kailh",
+      "switchType": "PG151101D01/D15",
+      "css": "img {\n    position: absolute;\n    width: 50px;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n}\n.keylabel div {\n    position: relative;\n}",
+      "plate": true,
+      "pcb": false
     },
     [
-        {
-            "c": "#1c1c1c",
-            "t": "#ffffff",
-            "f": 2
-        },
-        "Esc",
-        "F1",
-        "F2",
-        "F3",
-        "F4",
-        "F5",
-        "F6",
-        "F7",
-        "F8",
-        "F9",
-        "F10",
-        "F11",
-        "F12",
-        "Print",
-        "Delete"
+      {
+        "c": "#262626",
+        "f": 2
+      },
+      "<img src=\"https://i.imgur.com/ei3rI0y.png\">",
+      "<img src=\"https://i.imgur.com/0AnWQ0o.png\">",
+      "<img src=\"https://i.imgur.com/xs9xrk9.png\">",
+      "<img src=\"https://i.imgur.com/GXtlRIV.png\">",
+      "<img src=\"https://i.imgur.com/4oTznPi.png\">",
+      "<img src=\"https://i.imgur.com/EJGtwtO.png\">",
+      "<img src=\"https://i.imgur.com/MRZOrMk.png\">",
+      "<img src=\"https://i.imgur.com/0SbKRJ6.png\">",
+      "<img src=\"https://i.imgur.com/uuAI2xB.png\">",
+      "<img src=\"https://i.imgur.com/ZQHmzbd.png\">",
+      "<img src=\"https://i.imgur.com/suV8qHz.png\">",
+      "<img src=\"https://i.imgur.com/TlP1KYE.png\">",
+      "<img src=\"https://i.imgur.com/sIKrN9n.png\">"
     ],
     [
-        "~\n`",
-        "!\n1",
-        "@\n2",
-        "#\n3",
-        "$\n4",
-        "%\n5",
-        "^\n6",
-        "&\n7",
-        "*\n8",
-        "(\n9",
-        ")\n0",
-        "_\n-",
-        "+\n=",
-        {
-            "w": 2
-        },
-        "Backspace"
+      "<img src=\"https://i.imgur.com/YCYt0Ix.png\">",
+      "<img src=https://i.imgur.com/uVpX9o8.png>",
+      "<img src=https://i.imgur.com/HACyWvf.png>",
+      "<img src=https://i.imgur.com/9VJ5Njq.png>",
+      "<img src=https://i.imgur.com/CEj5qhJ.png>",
+      "<img src=https://i.imgur.com/GSoFLW7.png>",
+      "<img src=https://i.imgur.com/sWtwUcR.png>",
+      "<img src=https://i.imgur.com/CkrPmPB.png>",
+      "<img src=https://i.imgur.com/ZsAy98H.png>",
+      "<img src=https://i.imgur.com/Iyn3kH7.png>",
+      "<img src=https://i.imgur.com/1h6waFg.png>",
+      "<img src=https://i.imgur.com/tZuh2Ef.png>",
+      "<img src=https://i.imgur.com/Rm2Jr5D.png>"
     ],
     [
-        {
-            "w": 1.5
-        },
-        "Tab",
-        "Q",
-        "W",
-        "E",
-        "R",
-        "T",
-        "Y",
-        "U",
-        "I",
-        "O",
-        "P",
-        "{\n[",
-        "}\n]",
-        {
-            "w": 1.5
-        },
-        "|\n\\"
+      "<img src=\"https://i.imgur.com/YdOFn9o.png\">",
+      "<img src=https://i.imgur.com/7mQKRmi.png>",
+      "<img src=https://i.imgur.com/Rrmc4RH.png>",
+      "<img src=https://i.imgur.com/Zd4Y1v3.png>",
+      "<img src=https://i.imgur.com/2rDn5LL.png>",
+      "<img src=https://i.imgur.com/D16MIGB.png>",
+      "<img src=https://i.imgur.com/QXfXBuj.png>",
+      "<img src=https://i.imgur.com/Saf6wmn.png>",
+      "<img src=https://i.imgur.com/opXWTcs.png>",
+      "<img src=https://i.imgur.com/91SnEvM.png>",
+      "<img src=https://i.imgur.com/tqIDzS4.png>",
+      "<img src=https://i.imgur.com/7TGePPC.png>",
+      "<img src=https://i.imgur.com/ygFWOP4.png>"
     ],
     [
-        {
-            "w": 1.75
-        },
-        "Caps Lock",
-        "A",
-        "S",
-        "D",
-        "F",
-        "G",
-        "H",
-        "J",
-        "K",
-        "L",
-        ":\n;",
-        "\"\n'",
-        {
-            "w": 2.25
-        },
-        "Enter"
+      "<img src=https://i.imgur.com/ZeaVERV.png>",
+      "<img src=https://i.imgur.com/YMhVg3N.png>",
+      "<img src=https://i.imgur.com/9Nh6iUr.png>",
+      "<img src=https://i.imgur.com/hERcTB3.png>",
+      "<img src=https://i.imgur.com/kNsQDKa.png>",
+      "<img src=https://i.imgur.com/VbUKmL7.png>",
+      "<img src=https://i.imgur.com/XvJuKBE.png>",
+      "<img src=https://i.imgur.com/td4nyyy.png>",
+      "<img src=https://i.imgur.com/V15DaCZ.png>",
+      "<img src=https://i.imgur.com/ttWikpx.png>",
+      "<img src=https://i.imgur.com/M81oDno.png>",
+      "<img src=https://i.imgur.com/3qMpzyD.png>",
+      "<img src=https://i.imgur.com/laxUGtq.png>"
     ],
     [
-        {
-            "w": 2.25
-        },
-        "Shift",
-        "Z",
-        "X",
-        "C",
-        "V",
-        "B",
-        "N",
-        "M",
-        "<\n,",
-        ">\n.",
-        {
-            "w": 1.75
-        },
-        "?\n/",
-        "↑",
-        "Light"
-    ],
-    [
-        {
-            "w": 1.25
-        },
-        "Ctrl",
-        {
-            "w": 1.25
-        },
-        "Meta",
-        {
-            "w": 1.25
-        },
-        "Alt",
-        {
-            "a": 7,
-            "w": 6.25
-        },
-        "",
-        {
-            "a": 4,
-            "w": 2
-        },
-        "Fn",
-        "←",
-        "↓",
-        "→"
+      "<img src=https://i.imgur.com/ZEZGnLA.png>",
+      "<img src=https://i.imgur.com/a0efZYi.png>",
+      "<img src=https://i.imgur.com/kdb6KGQ.png>",
+      "<img src=https://i.imgur.com/nAJsYwq.png>",
+      "<img src=https://i.imgur.com/hVihq4h.png>",
+      "<img src=https://i.imgur.com/hVihq4h.png>",
+      "<img src=https://i.imgur.com/XREo8yw.png>",
+      "<img src=https://i.imgur.com/hVihq4h.png>",
+      "<img src=https://i.imgur.com/hVihq4h.png>",
+      "<img src=https://i.imgur.com/gyidxNZ.png>",
+      "<img src=https://i.imgur.com/IuMQBxf.png>",
+      "<img src=https://i.imgur.com/BfscEoZ.png>",
+      "<img src=https://i.imgur.com/iolDBLk.png>"
     ]
-]
+  ]
