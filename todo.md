@@ -1,0 +1,1 @@
+[] - Move PSU to different reusable part, use an small atmega/esp32-s3 (without network) mcu to control psu, send signals over i2c about battery status, usb connection, events and more, provide STABLE 3.3 and 5v at output. Maximum size are w: 19.05mm y: 38.1mm, output pins from bottom, input from USB to top, input from Battery to bottom
